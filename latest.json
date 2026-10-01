@@ -1,7 +1,7 @@
 {
-  "version": "2.13.44",
+  "version": "2.13.45",
   "extensionId": "biobondlemejiakbdpbcbnbglfdlmjao",
-  "packagePath": "releases/v2.13.44/extension.zip.enc",
-  "zipSha256": "29ffdd220d9225219071966ab93527e5e8a7f5b565a5b5831a1ca63e925fc04e",
-  "cipherSha256": "ad8ade867e43873c3939a0305e630e4bd8bec4a326177b67fc7a222912e11895"
+  "packagePath": "releases/v2.13.45/extension.zip.enc",
+  "zipSha256": "9d33ad04f558d5adad4b598d7e65b1d9570ff9c3c3e75477da3a439ff251c689",
+  "cipherSha256": "5a8db7ad61d4f7ae43bc324e0545e1d1caf2c3c8ece90b458196727f6db8b296"
 }
